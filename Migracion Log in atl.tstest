@@ -597,7 +597,7 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
-            "Runtime ID": "3aeb7d34-7809-48e3-852c-4396beef3a10",
+            "Runtime ID": "1f99c55c-aa1a-4711-80b9-9111b6a240b3",
             "Description": "Verify 'TextContent' 'Contains' 'Dev ATL' on 'DevATLH6Tag'",
             "CustomDescription": null,
             "Step": {
@@ -714,7 +714,7 @@
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
-            "StepImageKey": "Migracion Log in5gwkktmv.bdm",
+            "StepImageKey": "Migracion Log in atlmien45h4.erz",
             "QcId": 0,
             "QcVersionStamp": 0,
             "Version": 200
